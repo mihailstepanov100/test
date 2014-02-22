@@ -4,4 +4,6 @@
  * User: Mikl
  * Date: 22.02.14
  * Time: 13:05
- */ 
+ */
+
+echo 'New line in index.php file';
